@@ -1,23 +1,49 @@
-# Olá, visitante! 👋
+# Maria Eduarda Ramos 👩‍💻
 
-## Sobre Mim
-Eu sou a [Duda](https://github.com/mariaeramos18), uma alma curiosa e apaixonada por desafios no vasto universo da programação. Atualmente, sou estudante universitária, navegando pelos mares desafiadores da faculdade, e também, curso análise de dados, estou trilhando um caminho para uma carreira btilhante.
-E este é o meu cantinho onde publico minha jornada! 🚀✨
+## About Me
 
-## 💡 O que você encontrará aqui?
-Este repositório não é apenas um conjunto de códigos; é o registro das minhas explorações, aprendizados e conquistas enquanto aprimoro minhas habilidades. Ao longo da minha jornada, aqui serão postados projetos que refletem meu conhecimento, tudo muito bem organizado e apresentado para você. Além de códigos bem explicados, a fim de te mostrar passo a passo de como foi criar todas essas linhas de códigos.💻
+I am a student of **Systems Analysis and Development** with a genuine passion for software development and data analysis. I focus on creating practical and efficient solutions that make a real impact. Currently, I am a Data Analysis intern, where I apply advanced tools to transform raw data into strategic insights.
 
-## Aprendizados Atuais 🌱
-No momento, estou imersa na maravilhosa jornada de aprendizado. De olho em ampliar meus horizontes, estou explorando Análise de dados! Estou focada em Python, SQL e Machine Learning. 🌐
+## Experience and Tools
 
-## Colaborações à Vista 
-Estou sempre de braços abertos para colaborações empolgantes. Se você tem um projeto interessante ou ideias inovadoras, vamos unir forças e criar algo incrível juntos! 🤝
+- **Data Analysis Internship**  
+  Working with **Excel, VBA, Power BI, Tableau**, and **Oracle SQL**, performing everything from data manipulation and cleaning to creating interactive dashboards to support decision-making.
 
-## 🌈 Vamos Conectar!
-Quer trocar uma ideia, sugerir um projeto ou apenas bater papo sobre o universo tech? Me chama! Você pode me encontrar por aqui [m_ramos@id.uff.br]. Estou ansiosa para ouvir o que você tem a dizer! 💌🎉
+- **Data Analysis and Big Data**  
+  Course focused on Python and its main data science libraries such as **Pandas, NumPy, Matplotlib, Plotly**, as well as relational databases (**MySQL**) and **Machine Learning** techniques with **Scikit-Learn**.
 
-**Vamos criar, aprender e celebrar juntos! 🌈**
+- **Java Development**  
+  Practical projects that strengthen my skills in object-oriented programming using **Java**, design patterns, **Spring Boot**, **Stream API**, and interface development with **Swing**.
 
-**[@mariaeramos18](https://github.com/mariaeramos18)**
+## Technical Skills
 
-*Exploradora do Código e Futura Analista de Dados* 📊🔧
+| Area                  | Technologies/Tools                               |
+|-----------------------|-------------------------------------------------|
+| Languages             | Java, Python, SQL                               |
+| Frameworks & Libraries | Spring Boot, Scikit-Learn, Pandas, Plotly       |
+| Databases             | MySQL, Oracle SQL, MongoDB (NoSQL)               |
+| BI Tools              | Power BI, Tableau                                |
+| Others                | VBA, Hibernate, Angular, Git                     |
+
+## Featured Projects
+
+- **Interactive Data Analysis Dashboard**  
+  Visualization and analysis of public security data using Python, Plotly, and Pandas to generate insights on vehicle theft and recovery.
+
+- **Object-Oriented Java Applications**  
+  Development of robust applications focusing on best design practices and using modern APIs.
+
+## Let’s Connect!
+
+If you are a recruiter or professional interested in learning more about my projects, skills, and how I can contribute to your team, feel free to visit my GitHub:
+
+👉 [github.com/mariaeramos18](https://github.com/mariaeramos18)
+
+---
+
+🔗 **Contact:**  
+[LinkedIn](https://www.linkedin.com/in/mariaerams/) | mariaeduardarribeiro@gmail.com
+
+---
+
+I am always open to challenges, learning opportunities, and ways to grow professionally. Let’s build something amazing together!
