@@ -1,5 +1,3 @@
-# Maria Eduarda Ramos 👩‍💻
-
 ## About Me
 
 I am a student of **Systems Analysis and Development** with a genuine passion for software development and data analysis. I focus on creating practical and efficient solutions that make a real impact. Currently, I am a Data Analysis intern, where I apply advanced tools to transform raw data into strategic insights.
