@@ -31,12 +31,6 @@ I am a student of **Systems Analysis and Development** with a genuine passion fo
 - **Object-Oriented Java Applications**  
   Development of robust applications focusing on best design practices and using modern APIs.
 
-## Let’s Connect!
-
-If you are a recruiter or professional interested in learning more about my projects, skills, and how I can contribute to your team, feel free to visit my GitHub:
-
-👉 [github.com/mariaeramos18](https://github.com/mariaeramos18)
-
 ---
 
 🔗 **Contact:**  
