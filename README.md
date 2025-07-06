@@ -11,7 +11,7 @@ I am a student of **Systems Analysis and Development** with a genuine passion fo
   Course focused on Python and its main data science libraries such as **Pandas, NumPy, Matplotlib, Plotly**, as well as relational databases (**MySQL**) and **Machine Learning** techniques with **Scikit-Learn**.
 
 - **Java Development**  
-  Practical projects that strengthen my skills in object-oriented programming using **Java**, design patterns, **Spring Boot**, **Stream API**, and interface development with **Swing**.
+  Practical projects that strengthen my skills in object-oriented programming using **Java**, design patterns, and interface development with **Swing**.
 
 ## Technical Skills
 
