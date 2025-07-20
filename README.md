@@ -11,42 +11,22 @@
 ## 🛠️ Stack Tecnológica
 
 ### ☕ Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="./imagens/Java.png" alt="Design do Java" width="35"><img src="./imagens/Spring.png" alt="Design do Spring" width="35"><img src="./imagens/Python.png" alt="Design do Python" width="35">
 
 ### 🌐 Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="./imagens/HTML5.png" alt="Design do HTML5" width="35"><img src="./imagens/CSS3.png" alt="Design do CSS3" width="35"><img src="./imagens/JavaScript.png" alt="Design do JavaScript" width="35"><img src="./imagens/Bootstrap.png" alt="Design do Bootstrap" width="35">
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="./imagens/MySQL.png" alt="Design do MySql" width="35"><img src="./imagens/PostgresSQL.png" alt="Design do PostgresSql" width="35"><img src="./imagens/Microsoft SQL Server.png" alt="Design do Microsoft SQL Server" width="35">
 
 ### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<img src="./imagens/NumPy.png" alt="Design do NumPy" width="35"><img src="./imagens/Pandas.png" alt="Design do Pandas" width="35"><img src="./imagens/scikit-learn.png" alt="Design do Scikit Learn" width="35"><img src="./imagens/Matplotlib.png" alt="Design do Matplotlib" width="35">
 
 ### 🛠️ Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="./imagens/Git.png" alt="Design do Git" width="35"><img src="./imagens/GitHub.png" alt="Design do GitHub" width="35"><img src="./imagens/Figma.png" alt="Design do projeto no Figma" width="35">
 
 ### 🚀 Aprendendo Atualmente
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Reactive Programming](https://img.shields.io/badge/Reactive-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img src="./imagens/AWS.png" alt="Design do projeto no AWS" width="35"><img src="./imagens/React.png" alt="Design do projeto no React" width="35">
 
 ---
 
